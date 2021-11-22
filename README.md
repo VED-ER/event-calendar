@@ -2,7 +2,7 @@
 
 This is a similar version of google calendar where you can add,edit and delete events on each date.
 
-- Live Site URL: https://calendar-b88c3.web.app/
+Live Site URL: https://calendar-b88c3.web.app/
 
 
 ## Built with
@@ -10,16 +10,17 @@ This is a similar version of google calendar where you can add,edit and delete e
 - HTML
 - CSS
 - React
+- Date-fns library
 
 
-Users should be able to:
+## Features:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Open a lightbox gallery by clicking on the large product image
-- Switch the large product image by clicking on the small thumbnail images
-- Add items to the cart
-- View the cart and remove items from it
+- Change current month by clicking on '<' and '>' buttons
+- Go to current date by clicking 'today' button
+- Add an event by clicking on '+' icon when hovering over any date
+- Edit an event by clicking on it
+- If there are more than 3 events on a single date, a 'x more' button will appear which when clicked, will show all the events on that date
+- When page is refreshed, all events are saved
 
 ## Screenshot
 ![React App 11-22-2021 5-32-39 PM](https://user-images.githubusercontent.com/92994473/142899250-5d162da1-e722-4541-a142-b15f878a50ac.png)
@@ -29,6 +30,6 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- LinkedIn - https://www.linkedin.com/in/vedran-erak-9b8321212/
+- LinkedIn - [Vedran Erak](https://www.linkedin.com/in/vedran-erak-9b8321212/)
 
 
