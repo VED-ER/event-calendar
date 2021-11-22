@@ -2,7 +2,7 @@
 
 This is a similar version of google calendar where you can add,edit and delete events on each date.
 
-Live Site URL: https://calendar-b88c3.web.app/
+Live Site URL: [google-calendar-clone](https://calendar-b88c3.web.app/)
 
 
 ## Built with
