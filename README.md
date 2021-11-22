@@ -22,7 +22,7 @@ Users should be able to:
 - View the cart and remove items from it
 
 ## Screenshot
-![React App 11-22-2021 5-20-58 PM](https://user-images.githubusercontent.com/92994473/142898720-3b2d231c-8612-43a4-b564-6a4f286316d9.png)
+![React App 11-22-2021 5-32-39 PM](https://user-images.githubusercontent.com/92994473/142899250-5d162da1-e722-4541-a142-b15f878a50ac.png)
 
 
 
